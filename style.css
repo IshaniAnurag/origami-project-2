@@ -1,0 +1,169 @@
+h1{
+    padding:50px;
+    margin-left: 370px;
+    color:darkslateblue;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+.origamifacts{
+    background-color:paleturquoise;
+    border:solid;
+    border-color:purple;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    
+}
+.origamiintro{
+    background-color:pink;
+    border:solid;
+    border-color:yellow;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+}
+
+.camel{
+    background-color:mintcream;
+    border:solid;
+    border-color: midnightblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+    
+}
+.chameleon{
+    background-color:palegreen;
+    border:solid;
+    border-color:darkolivegreen;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+    
+}
+.cicada{
+    background-color:coral;
+    border:solid;
+    border-color:maroon;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+    
+}
+.panda{
+    background-color:plum;
+    border:solid;
+    border-color:yellowgreen;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+    
+}
+.pigeon{
+    background-color:peachpuff;
+    border:solid;
+    border-color:orangered;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+    
+}
+.teddy{
+    background-color:cadetblue;
+    border:solid;
+    border-color:palevioletred;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+    
+}
+
+a:link{
+    color:palevioletred;
+}
+a:visited{
+    color:purple
+}
+
+.index{
+    background-color:lightgoldenrodyellow;
+    border:solid;
+    border-color: mediumpurple;
+   
+}
+.aboutus{
+    background-color:cornflowerblue;
+    border:solid;
+    border-color:crimson;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+
+}
+
+.instagram{
+    background-color:plum;
+    border:solid;
+    border-color:crimson;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+}
+.facebook{
+    background-color:lightgreen;
+    border:solid;
+    border-color:olivedrab;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+}
+.twitter{
+    background-color:lightskyblue;
+    border:solid;
+    border-color:yellow;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-variant: normal;
+}
